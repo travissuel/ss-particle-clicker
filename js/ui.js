@@ -137,6 +137,10 @@ var UI = (function () {
       };
     };
 
+    if(obj.hasOwnProperty("achievementHash")) {
+        document.getElementById("labname").value = obj.achievementHash;
+    }
+
     window.setTimeout(remove(alert), 2000);
   }
 

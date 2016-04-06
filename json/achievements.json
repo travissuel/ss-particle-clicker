@@ -29,7 +29,8 @@
     "key": "achievement-research-beauty-1",
     "threshold": 1,
     "targetKey": "research-beauty",
-    "targetProperty": "level"
+    "targetProperty": "level",
+    "achievementHash": "0ccbcb357dd4f573806ffd2a1451511f"
   },
   {
     "description": "Gluons discovery!",
